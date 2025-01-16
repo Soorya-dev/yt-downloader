@@ -1,0 +1,17 @@
+{
+  "name": "yt-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-progress": "^3.12.0",
+    "inquirer": "^8.2.4",
+    "youtube-dl-exec": "^3.0.13"
+  }
+}
